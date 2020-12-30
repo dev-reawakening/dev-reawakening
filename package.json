@@ -1,0 +1,19 @@
+{
+  "name": "dev-reawakening",
+  "version": "1.0.0",
+  "description": "message to the world!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-reawakening/dev-reawakening.git"
+  },
+  "author": "dev-reawakening",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-reawakening/dev-reawakening/issues"
+  },
+  "homepage": "https://github.com/dev-reawakening/dev-reawakening#readme"
+}
